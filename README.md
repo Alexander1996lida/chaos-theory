@@ -1,2 +1,2 @@
-# chaos-theory
-have a try
+# 小数据量法原理
+小数据量法判断时间序列混沌性
